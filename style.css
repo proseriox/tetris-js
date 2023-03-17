@@ -1,0 +1,11 @@
+#tetris {
+    width: 200px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.block {
+    width: 20px;
+    height: 20px;
+    position: absolute;
+}
